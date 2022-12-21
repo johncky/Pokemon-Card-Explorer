@@ -1,4 +1,5 @@
 # Pokemon-Card-Explorer
+Run `webscrape.R` first to download trades, then run `shinyapp.R` to run dashboard.
 
 `webscrape.R`: Scrape Pokemon Card trades from PokePrice.com, save to `./data/pokemon.sqlite`
 
